@@ -57,24 +57,24 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*K✟I✟N✟G✟S✟ 𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘾𝙃*
-*K✟I✟N✟G✟S✟*
+*JOEL MD 𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘾𝙃*
+*JOEL MD*
 *𝙇𝙀𝙂𝙄𝙏 𝘽𝙊𝙏*
 ____________________________________
 ╔════◇
 ║『 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍』
 
-║ ❒ K✟I✟N✟G✟S✟ _https://wa.me/254716860343_
+║ ❒ Mr Joel _https://wa.me/255767570963_
 
 ╚════════════════════❒
 ╔═════◇
 ║ 『••• OWNER INFO •••
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vaihcnh1iUxgTWto0Q0D_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M_
 
 ║ 
 ╚════════════════════╝ 
- *K✟I✟N✟G✟S✟*
+ *JOEL MD*
 ___________________________________
 
 Don't Forget To Give Star To My Repo`
